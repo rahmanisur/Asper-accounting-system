@@ -1,0 +1,6 @@
+{
+  "name": "Small Business Accounting",
+  "description": "An accounting software for small businesses that automates invoice creation with AI and tracks outgoing payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
